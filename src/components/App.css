@@ -1,0 +1,10 @@
+.event {
+  border: 1px dashed black;
+  margin: 1em;
+  padding: 0.2em 2em;
+}
+
+.event > h3 {
+  border-bottom: 1px solid hotpink;
+  font-weight: 800;
+}
